@@ -1,7 +1,7 @@
-Smart-Crop-recommendation-system
+#Smart-Crop-recommendation-system
 AI-powered crop recommendation system
 
-जय जवान जय किसान
+#जय जवान जय किसान
 An EDA Project by Students of AISSMS IOIT, Pune
 
 Project Overview
